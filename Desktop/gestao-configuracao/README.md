@@ -1,4 +1,4 @@
-Equipe:
+NOME da Equipe:
 Nome completo: Ana Gabrielly Gonçalves da Silva
 Github: gabriellymossa
 Matrícula: 2519878
